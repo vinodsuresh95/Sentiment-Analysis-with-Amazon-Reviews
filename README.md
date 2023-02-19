@@ -9,3 +9,6 @@ Roberta Pretrained Model from 🤗
 Huggingface Pipeline
 
 dataset : https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/data
+
+
+Credit to https://www.youtube.com/@robmulla
